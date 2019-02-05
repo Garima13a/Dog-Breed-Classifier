@@ -1,2 +1,2 @@
-# Dog-Breed-Classifier
- This project classifies breeds of dogs using CNN.
+# DogBreedClassifier
+Udacity deep learning project-2 for classifying breeds of a dog using CNN
