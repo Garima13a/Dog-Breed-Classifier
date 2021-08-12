@@ -7,3 +7,4 @@ To run this project, open .ipynb file in jupyter notebook
 2. Make sure to experiment using different hyperparameters.
 
 Refer to my blog posts for more interesting DL projects: https://garimanishad.medium.com/
+LinkedIn: https://www.linkedin.com/in/garima-nishad-9b8385134/
